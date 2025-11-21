@@ -1,0 +1,20 @@
+{
+    "nombre" : "Espacio 01",
+    "descripcion": "Descripcion del espacio",
+    "listas": [
+        {
+            "id": 1,
+            "espacios_id":[1],
+            "nombre": "Lista 01"
+        },
+        {
+            "id": 2,
+            "espacios_id":[1],
+            "nombre":"Lista 02"
+        }
+    ],
+    "tareas": [
+        
+    ]
+
+}
